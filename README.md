@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **React, Python, MERN Stack, Flask**
 
-- 📫 How to reach me **daniharshil1800@gamil.com**
+- 📫 How to reach me **daniharshil1800@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/harshil-dani/](https://www.linkedin.com/in/harshil-dani/)
 
